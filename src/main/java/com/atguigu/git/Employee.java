@@ -31,4 +31,8 @@ public class Employee {
 		this.salary = salary;
 	}
 	
+	public void test() {
+		System.out.println("left");
+	}
+	
 }
