@@ -34,5 +34,6 @@ public class Employee {
 	
 	public void test() {
 		System.out.println("right");
+		System.out.println("hot fix");
 	}
 }
