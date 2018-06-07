@@ -6,6 +6,7 @@ public class Employee {
 	private String name;
 	private Integer age;
 	private Double salary;
+	
 	public Integer getId() {
 		return id;
 	}
@@ -31,4 +32,7 @@ public class Employee {
 		this.salary = salary;
 	}
 	
+	public void test() {
+		System.out.println("right");
+	}
 }
