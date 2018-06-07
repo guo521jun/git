@@ -33,6 +33,7 @@ public class Employee {
 	
 	public void test() {
 		System.out.println("left");
+		System.out.println("right");
 	}
 	
 }
